@@ -1,0 +1,186 @@
+------------------1---------------
+
+                                                         VK2 Al borj Medical Lab 
+bioMérieux Customer: VK2 BML                             Laboratory Report 
+System # :                                                                                                           Printed by: Labadmin 
+Patient Name: R858                                                                                                    Patient ID : 161-3796 
+Isolate: 2500759797-1 (Approved) 
+Card Type: AST-N419 Bar Code: 0442781204411083 Testing Instrument: 000015F27175 (12418) 
+Setup Technologist: Laboratory Administrator(Labadmin) 
+Organism Quantity :                            Selected Organism: Acinetobacter baumannii 
+BP Infection Site: 
+
+ Comments: 
+
+ Identification Information 
+ Organism Origin                            Technologist 
+
+                                            Acinetobacter baumannii 
+ Selected Organism 
+                                            Entered:    Feb 19, 2025 10:12 CST              By:    Labadmin 
+
+ Analysis Messages: 
+
+ Susceptibility             Card:       AST-N419       Lot Number:          0442781204      Expires:         Jul 8, 2025 13 :00 CDT 
+ Information                Status:     Final          Analysis Time:       13.17 hours     Completed:       Feb 19, 2025 23:09 CST 
+
+       Antimicrobial                 MIC          Interpretation            Antimicrobial                 MIC         Interpretation 
+
+ +Amoxicillin                                             R           Ceftolozane/Tazobactam 
+ +Ampicillin                                              R           Cefepime                             >= 32               R 
+
+ +Amoxicillin/Clavulanic Acid                             R           +Aztreonam                                               R 
+ Ampicillin/Sulbactam                 >= 32               R           Imipenem                             >= 16               R 
+ +Piperacillin                                            R           Meropenem                            >= 16               R 
+ Piperacillin/Tazobactam             >= 128               R           Amikacin                             >= 64               R 
+
+ +Cefaclor                                                R           Gentamicin 
+ +Cefuroxime                                              R           Ciprofloxacin                        >= 4                R 
+ +Cefixime                                                R           +Levofloxacin                                            R 
+ +Cefpodoxime                                             R           +Norfloxacin                                             R 
+
+ Cefotaxime                           >= 64               R           +Ofloxacin                                               R 
+ Ceftazidime                          >= 64               R           Tigecycline 
+ +Ceftizoxime                                             R           Colistin 
+ +Ceftriaxone                                             R           Trimethoprim/                       >= 320               R 
+                                                                      Sulfamethoxazole 
+
+ Ceftazidime/Avibactam 
+
+ AES Findings:              Last Modified:       Nov 21, 2024 09 :30 CST         Parameter Set:        Copy of Global CLSI-based 
+                                                                                                       +Phenotypic 
+
+ Confidence Level:          Consistent 
+ Phenotypes flagged for    BETA-LACTAMS                                 CARBAPENEMASE 
+ review: 
+
+Installed VITEK 2 Systems Version: 9.04.4 
+MIC Interpretation Guideline: Copy of CLSI M 100-S27 (2017)                           Therapeutic Interpretation Guideline: PHENOTYPIC 
+AES Parameter Set Name: Copy of Global CLSI-based+Phenotypic                      AES Parameter Last Modified: Nov 21, 2024 09:30 CST 
+
+                                                                                                                                Page 1 of 2 
+
+------------------2---------------
+
+                                                         VK2 Al borj Medical Lab 
+bioMérieux Customer: VK2 BML                             Laboratory Report 
+System # :                                                                                                           Printed by: Labadmin 
+Patient Name: D90                                                                                                     Patient ID : 161-3795 
+Isolate: 2500759796-1 (Approved) 
+Card Type: AST-N419 Bar Code: 0442781204487925 Testing Instrument: 000015F27175 (12418) 
+Setup Technologist: Laboratory Administrator(Labadmin) 
+Organism Quantity :                            Selected Organism: Acinetobacter baumannii 
+BP Infection Site: 
+
+ Comments: 
+
+ Identification Information 
+ Organism Origin                            Technologist 
+
+                                            Acinetobacter baumannii 
+ Selected Organism 
+                                            Entered:    Feb 19, 2025 10:12 CST              By:    Labadmin 
+
+ Analysis Messages: 
+
+ Susceptibility             Card:       AST-N419       Lot Number:          0442781204      Expires:         Jul 8, 2025 13 :00 CDT 
+ Information                Status:     Final          Analysis Time:       17.80 hours     Completed:       Feb 20, 2025 03:46 CST 
+
+       Antimicrobial                 MIC          Interpretation            Antimicrobial                 MIC         Interpretation 
+
+ +Amoxicillin                                             R           Ceftolozane/Tazobactam 
+ +Ampicillin                                              R           Cefepime                             >= 32               R 
+
+ +Amoxicillin/Clavulanic Acid                             R           +Aztreonam                                               R 
+ Ampicillin/Sulbactam                 >= 32               R           Imipenem                             >= 16               R 
+ +Piperacillin                                            R           Meropenem                            >= 16               R 
+ Piperacillin/Tazobactam             >= 128               R           Amikacin                             >= 64               R 
+
+ +Cefaclor                                                R           Gentamicin 
+ +Cefuroxime                                              R           Ciprofloxacin                        >= 4                R 
+ +Cefixime                                                R           +Levofloxacin                                            R 
+ +Cefpodoxime                                             R           +Norfloxacin                                             R 
+
+ Cefotaxime                           >= 64               R           +Ofloxacin                                               R 
+ Ceftazidime                          >= 64               R           Tigecycline 
+ +Ceftizoxime                                             R           Colistin 
+ +Ceftriaxone                                             R           Trimethoprim/                        <= 20               S 
+                                                                      Sulfamethoxazole 
+
+ Ceftazidime/Avibactam 
+
+ AES Findings:              Last Modified:       Nov 21, 2024 09 :30 CST         Parameter Set:        Copy of Global CLSI-based 
+                                                                                                       +Phenotypic 
+
+ Confidence Level:          Consistent 
+ Phenotypes flagged for    BETA-LACTAMS                                 CARBAPENEMASE 
+ review: 
+
+Installed VITEK 2 Systems Version: 9.04.4 
+MIC Interpretation Guideline: Copy of CLSI M 100-S27 (2017)                           Therapeutic Interpretation Guideline: PHENOTYPIC 
+AES Parameter Set Name: Copy of Global CLSI-based+Phenotypic                      AES Parameter Last Modified: Nov 21, 2024 09:30 CST 
+
+                                                                                                                                Page 1 of 2 
+
+------------------3---------------
+
+                                                         VK2 Al borj Medical Lab 
+bioMérieux Customer: VK2 BML                             Laboratory Report 
+System # :                                                                                                           Printed by: Labadmin 
+Patient Name: N1092                                                                                                   Patient ID : 161-3797 
+Isolate: 2500759798-1 (Approved) 
+Card Type: AST-N419 Bar Code: 0442781204411135 Testing Instrument: 000015F27175 (12418) 
+Setup Technologist: Laboratory Administrator(Labadmin) 
+Organism Quantity :                            Selected Organism: Acinetobacter baumannii 
+BP Infection Site: 
+
+ Comments: 
+
+ Identification Information 
+ Organism Origin                            Technologist 
+
+                                            Acinetobacter baumannii 
+ Selected Organism 
+                                            Entered:    Feb 19, 2025 10:12 CST              By:    Labadmin 
+
+ Analysis Messages: 
+
+ Susceptibility             Card:       AST-N419       Lot Number:          0442781204      Expires:         Jul 8, 2025 13 :00 CDT 
+ Information                Status:     Final          Analysis Time:       10.47 hours     Completed:       Feb 19, 2025 20:26 CST 
+
+       Antimicrobial                 MIC          Interpretation            Antimicrobial                 MIC         Interpretation 
+
+ +Amoxicillin                                             R           Ceftolozane/Tazobactam 
+ +Ampicillin                                              R           Cefepime                             >= 32               R 
+
+ +Amoxicillin/Clavulanic Acid                             R           +Aztreonam                                               R 
+ Ampicillin/Sulbactam                  16                  I          Imipenem                             >= 16               R 
+ +Piperacillin                                            R           Meropenem                            >= 16               R 
+ Piperacillin/Tazobactam             >= 128               R           Amikacin                             >= 64               R 
+
+ +Cefaclor                                                R           Gentamicin 
+ +Cefuroxime                                              R           Ciprofloxacin                        >= 4                R 
+ +Cefixime                                                R           +Levofloxacin                                            R 
+ +Cefpodoxime                                             R           +Norfloxacin                                             R 
+
+ Cefotaxime                           >= 64               R           +Ofloxacin                                               R 
+ Ceftazidime                          >= 64               R           Tigecycline 
+ +Ceftizoxime                                             R           Colistin 
+ +Ceftriaxone                                             R           Trimethoprim/                       >= 320               R 
+                                                                      Sulfamethoxazole 
+
+ Ceftazidime/Avibactam 
+
+ AES Findings:              Last Modified:       Nov 21, 2024 09 :30 CST         Parameter Set:        Copy of Global CLSI-based 
+                                                                                                       +Phenotypic 
+
+ Confidence Level:          Consistent 
+ Phenotypes flagged for    BETA-LACTAMS                                 CARBAPENEMASE 
+ review: 
+
+Installed VITEK 2 Systems Version: 9.04.4 
+MIC Interpretation Guideline: Copy of CLSI M 100-S27 (2017)                           Therapeutic Interpretation Guideline: PHENOTYPIC 
+AES Parameter Set Name: Copy of Global CLSI-based+Phenotypic                      AES Parameter Last Modified: Nov 21, 2024 09:30 CST 
+
+                                                                                                                                Page 1 of 2 
+
