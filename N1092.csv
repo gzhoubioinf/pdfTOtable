@@ -1,0 +1,16 @@
+,Antimicrobial,MIC,Interpretation,Antimicrobial.1,MIC.1,Interpretation.1
+0,+Amoxicillin,nan,R,Ceftolozane/Tazobactam,nan,nan
+1,+Ampicillin,nan,R,Cefepime,>= 32,R
+2,+Amoxicillin/Clavulanic Acid,nan,R,+Aztreonam,nan,R
+3,Ampicillin/Sulbactam,16,I,Imipenem,>= 16,R
+4,+Piperacillin,nan,R,Meropenem,>= 16,R
+5,Piperacillin/Tazobactam,>= 128,R,Amikacin,>= 64,R
+6,+Cefaclor,nan,R,Gentamicin,nan,nan
+7,+Cefuroxime,nan,R,Ciprofloxacin,>= 4,R
+8,+Cefixime,nan,R,+Levofloxacin,nan,R
+9,+Cefpodoxime,nan,R,+Norfloxacin,nan,R
+10,Cefotaxime,>= 64,R,+Ofloxacin,nan,R
+11,Ceftazidime,>= 64,R,Tigecycline,nan,nan
+12,+Ceftizoxime,nan,R,Colistin,nan,nan
+13,+Ceftriaxone,nan,R,Trimethoprim/Sulfamethoxazole,>= 320,R
+14,Ceftazidime/Avibactam,nan,nan,nan,nan,nan
