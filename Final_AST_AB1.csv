@@ -1,0 +1,4 @@
+,Amoxicillin,Ampicillin,Amoxicillin/Clavulanic acid,MIC_Ampicillin/Sulbactam,Ampicillin/Sulbactam,Piperacillin,MIC_Piperacillin/Tazobactam,Piperacillin/Tazobactam,Cefaclor,Cefuroxime,Cefixime,Cefpodoxime,MIC_Cefotaxime,Cefotaxime,MIC_Ceftazidime,Ceftazidime,Ceftizoxime,Ceftriaxone,MIC_Cefepime,Cefepime,Aztreom,MIC_Imipenem,Imipenem,MIC_Meropenem,Meropenem,MIC_Amikacin,Amikacin,MIC_Ciprofloxacin,Ciprofloxacin,Levofloxacin,Norfloxacin,Ofloxacin,MIC_Trimethoprim/Sulfamethoxazole,Trimethoprim/Sulfamethoxazole
+R858,R,R,R,>= 32,R,R,>= 128,R,R,R,R,R,>= 64,R,>= 64,R,R,R,>= 32,R,R,>= 16,R,>= 16,R,>= 64,R,>= 4,R,R,R,R,>= 320,R
+D90,R,R,R,>= 32,R,R,>= 128,R,R,R,R,R,>= 64,R,>= 64,R,R,R,>= 32,R,R,>= 16,R,>= 16,R,>= 64,R,>= 4,R,R,R,R,<= 20,S
+N1092,R,R,R,16,I,R,>= 128,R,R,R,R,R,>= 64,R,>= 64,R,R,R,>= 32,R,R,>= 16,R,>= 16,R,>= 64,R,>= 4,R,R,R,R,>= 320,R
