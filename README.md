@@ -11,7 +11,7 @@ This repository is dedicated to extracting tabular data from antimicrobial susce
   Trimmed version of the original PDF, keeping only the value-containing sections for easier processing.
 
 - **AB1.txt**  
-  Text file converted from `AB1_CUT.pdf` using Foxit PDF Editor.
+  Text file converted from `AB1_original.pdf` using Foxit PDF Editor.
 
 - **R858.csv, D90.csv, N1092.csv**  
   Temporary datasets created as intermediate examples during the extraction process.
